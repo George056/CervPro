@@ -1,10 +1,12 @@
 # CervPro
 
+<img src="https://github.com/George056/CervPro/blob/main/Images/CervPro%20icon.png" alt="CervPro Logo" width="240"/>
+
 ## Designers
-George Cook – Computer Engineer
-Nathan Vielmette – Electrical Engineer (team leader)
-Ethan Grimes – Mechanical Engineer
-Keneth Chelelgo – Mechanical Engineer
+George Cook – Computer Engineer     
+Nathan Vielmette – Electrical Engineer (team leader)     
+Ethan Grimes – Mechanical Engineer     
+Keneth Chelelgo – Mechanical Engineer     
 
 ## Description
 This product was designed by the above team for Harding University's Engineering Department's senior design capstone project (class of 2020-21). Where we used what we had learned through our time at Harding to design a project of our choosing. This project is to be used by physical therapists in performing the cervical proprioceptive error test (CPE test). It tracks the patients face and calculates velocity and final angle difference.    
