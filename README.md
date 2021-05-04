@@ -12,7 +12,7 @@ This product was designed by the above team for Harding University's Engineering
 This was implemented using a Jetson Nano microprocessor and the PS3 PlayStation Eye camera. To prevent overheating the ICE cooling tower was attached to the Nano. It was powered by a PCB made by Nathan through a barrel power plug.
 
 ## Library Dependencies
-OpenCV
+OpenCV    
 dlib
 
 ## Compiling
